@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;브루트포스재귀연산자끼워넣기&apos; to &apos;브루트포스재귀연산자끼워넣기어렵&apos;&#x0D;&#x0A;- Original project: &apos;역량기초&apos;&#x0D;&#x0A;- Original element: &apos;브루트포스재귀연산자끼워넣기&apos;&#x0D;&#x0A;- Renamed element: &apos;브루트포스재귀연산자끼워넣기어렵&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;브루트포스재귀연산자끼워넣기&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/&lt;{브루트포스재귀연산자끼워넣기.java[브루트포스재귀연산자끼워넣기" matchStrategy="1" name="브루트포스재귀연산자끼워넣기어렵" qualified="false" references="true" similarDeclarations="false" stamp="1582446711003" textual="false" version="1.0"/>
+</session>
